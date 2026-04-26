@@ -24,7 +24,7 @@
 </p>
 
 ---
-
+<!--
 ## 🔥 Projects in Progress
 
 - **[Project One](#)** – *Under development...*
@@ -32,6 +32,7 @@
 - **[Project Three](#)** – *Under development...*
 
 ---
+-->
 
 ## 🤝 Let's Connect
 
