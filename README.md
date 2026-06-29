@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css" alt="Tech Stack" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/turbo-cyborg-978b3025b" target="_blank">
+  <a href="https://www.linkedin.com/in/prateek0404/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/turb0cyb0rg" target="_blank">
