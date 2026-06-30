@@ -3,9 +3,10 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=prateekky&show_icons=true&theme=radical"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=prateekky&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
-    width="400">
+    width="400"
+  />
 </p>
 
 ---
