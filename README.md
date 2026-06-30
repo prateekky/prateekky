@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Turbocyborg 👋</h1>
+<h1 align="center">Hi, I'm Prateek 👋</h1>
 <h3 align="center">Passionate Developer | Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
